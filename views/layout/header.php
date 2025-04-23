@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Gestion des Événements</title>
-    <link rel="stylesheet" href="../../public/css/style2.css">
+    <link rel="stylesheet" href="../../public/css/style.css">
 </head>
 <body>
     <header>
